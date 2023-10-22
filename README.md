@@ -25,15 +25,7 @@ anjy7@github
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-<h2 align="color:white">My GitHub Stats 📈</h2>
 
-   <table>
-  <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=ayushshukla7777&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="anjy7" /> 
-   
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshukla7777&theme=material-palenight" alt="anjy7" /></td>
-  </tr>
-</table>
 
 
 
