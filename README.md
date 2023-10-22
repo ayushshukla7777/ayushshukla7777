@@ -5,7 +5,7 @@
 
 
 ```
-anjy7@github
+ayushshukla7777@github
 -------------------------
 - 👀 I am Ayush
 - 🦾 Software Developer at @trustedweartech
