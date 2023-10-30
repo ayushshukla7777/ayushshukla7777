@@ -1,6 +1,8 @@
 <!--   ![header_](https://user-images.githubusercontent.com/92802904/190911228-459d8af8-4d8a-403f-a5a6-c4e5422f5e5a.png) -->
 
 <h2 align="color:white">Hey there! 👀 This is Ayush</h2>
+<h2 align="color:white">🥇Badges Earned!</h2>
+[![An image of @ayushshukla7777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushshukla7777)](https://holopin.io/@ayushshukla7777)
 
 ```
 -------------------------
@@ -10,8 +12,6 @@
 - 💬 Ask me about React, NestJS, NextJS JavaScript and TypeScript
 - 🧠 I am currently experimenting with Azure, Redis and  Prisma ORM
 
-<h2 align="color:white">🥇Badges Earned!</h2>
-[![An image of @ayushshukla7777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushshukla7777)](https://holopin.io/@ayushshukla7777)
 
 ```
 
