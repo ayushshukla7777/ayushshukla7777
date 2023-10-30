@@ -5,6 +5,7 @@
 [![An image of @ayushshukla7777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushshukla7777)](https://holopin.io/@ayushshukla7777)
 
 ```
+ayushshukla7777@github
 -------------------------
 - 🦾 Software Developer at @trustedweartech
 - 🚀 Open Source contributor
