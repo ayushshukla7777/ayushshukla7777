@@ -2,7 +2,7 @@
 
 <h2 align="color:white">Hey there!</h2>
 
-[![An image of @ayushshukla7777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushshukla7777)](https://holopin.io/@ayushshukla7777)
+
 
 
 ```
@@ -25,7 +25,7 @@ ayushshukla7777@github
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
+[![An image of @ayushshukla7777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushshukla7777)](https://holopin.io/@ayushshukla7777)
 
 
 
