@@ -9,6 +9,8 @@
 ayushshukla7777@github
 -------------------------
 - 👀 I am Ayush
+- 📞 React out to me at -ayushshukla7777@gmail.com
+- #️⃣ LinkedIn- @ayushshukla7777
 - 🦾 Software Developer at @trustedweartech
 - 🚀 Open Source contributor
 - 💻 I’m a full stack developer
