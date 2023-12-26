@@ -13,7 +13,7 @@ ayushshukla7777@github
 - #️⃣ LinkedIn- www.linkedin.com/in/ayush-shukla-aryan
 - 🦾 Software Developer at @trustedweartech
 - 🚀 Open Source contributor
-- 💻 I’m a full stack developer
+- 💻 I’m a Front End Developer
 - 💬 Ask me about React, NestJS, NextJS JavaScript and TypeScript
 - 🧠 I am currently experimenting with Nest.js
 ```
