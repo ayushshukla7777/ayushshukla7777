@@ -17,7 +17,7 @@ ayushshukla7777@github
 - 💬 Ask me about React, NestJS, NextJS JavaScript and TypeScript
 - 🧠 I am currently experimenting with Nest.js
 ```
-<a href="https://novu.co/contributors/ayushshukla7777/"><img src="https://contributors.novu.co/profiles/ayushshukla7777-small.jpg" height="170" width="450" alt="" /></a>
+
 <h2 align="color:white">Tech Stack</h2>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
